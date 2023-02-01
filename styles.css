@@ -142,7 +142,7 @@ body{
     .background-top{
         background-image: url(./images/bg-pattern-top-desktop.svg);
         width: 900px;
-        height: 500px;
+        height: 900px;
         background-repeat: no-repeat;
         background-size: 80%;
         margin-left: -15rem;
@@ -164,6 +164,7 @@ body{
     }
     .title h1{
         text-align: start;
+        font-weight: bold;
     }
     .text{
         width:50%;
@@ -252,7 +253,7 @@ body{
     .background-bottom{
         background-image: url(./images/bg-pattern-bottom-desktop.svg);
         background-repeat: no-repeat;
-        height:1000px;
+        height:900px;
         background-size: 141%;
         margin-top: -53.5rem;
         margin-right: -11.9rem;
